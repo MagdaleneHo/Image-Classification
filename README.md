@@ -8,3 +8,14 @@ First, the image data was used as input for the neural network (NN) classifier. 
 
 ## Conclusion 
 AutoML models are able to fit the tabular data to predict the insured amount better than other conventional methods including linear regression, decision tree, Gaussian Naïve Bayes and KNN. AutoML also provides an advantage over the conventional models as it is able to take care of the data preprocessing, feature engineering and model generation automatically. For instance, the powerful feature of AutoML to test out multiple data preparation techniques in a single run makes it highly suitable to become the basis to build machine learning models in the near future as machine learning predictions become more ubiquitous in daily applications. 
+
+## Data Source
+Kaggle: [Fast, Furious and Insured](https://www.kaggle.com/infernape/fast-furious-and-insured)
+
+## Contributors
+This is a group project completed in collaboration with: <br>
+<a href="https://github.com/MagdaleneHo/Image-Classification/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MagdaleneHo/Image-Classification" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
